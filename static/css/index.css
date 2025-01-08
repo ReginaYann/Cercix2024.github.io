@@ -85,8 +85,6 @@ body {
 .author-institution {
   color: #888888; /* 较浅的颜色，适合单位 */
   font-style: italic; /* 斜体，使单位看起来不同 */
-  display: block;            /* 强制单位占一行 */;
-  text-align: center;        /* 保证单位居中 */
 }
 
 .publication-banner img {
