@@ -1,3 +1,3 @@
 # Cervix2024.github.io
 
-dataset
+For details of our dataset, please visit https://reginayann.github.io/Cervix2024.github.io/
