@@ -85,7 +85,10 @@ body {
 .author-institution {
   color: #888888; /* 较浅的颜色，适合单位 */
   font-style: italic; /* 斜体，使单位看起来不同 */
-  flex-wrap: wrap;  /* 自动换行 */
+  display: flex;
+  flex-wrap: wrap; /* 允许换行 */
+  justify-content: center; /* 保证内容居中 */
+  gap: 10px; /* 子元素间距 */
 }
 
 .publication-banner img {
