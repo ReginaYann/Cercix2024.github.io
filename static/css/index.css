@@ -82,6 +82,11 @@ body {
   display: inline-block;
 }
 
+.author-institution {
+  color: #888888; /* 较浅的颜色，适合单位 */
+  font-style: italic; /* 斜体，使单位看起来不同 */
+}
+
 .publication-banner img {
 }
 
